@@ -1,0 +1,11 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://web:XXXX.mongolab.com:XXXX/monument",
+      "MAIL_URL": "smtp://postmaster@mg.monument.house:XXXX@smtp.mailgun.org:587/"
+    }
+  },
+  "googleClientId": "XXXX.apps.googleusercontent.com",
+  "googleClientSecret": "XXXX",
+  "slackApiToken": "XXXX"
+}
